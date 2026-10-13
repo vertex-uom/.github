@@ -61,10 +61,10 @@ We are a team of developers working together to design, build, and deliver Sanch
 | Team Member | Role | GitHub |
 |---|---|---|
 | Pasindu Pabasara | Backend & DevOps Engineer | [@PasinduPabasaraSL](https://github.com/PasinduPabasaraSL) |
-| Nisal Rathnaka | QA Engineer | [@USERNAME](https://github.com/USERNAME) |
-| Dilshan Viranjana | UI/UX Engineer | [@USERNAME](https://github.com/USERNAME) |
-| Minduli Kumaranayka | Project Manager | [@USERNAME](https://github.com/USERNAME) |
-| Sithma Vithanage | Frontend Engineer | [@USERNAME](https://github.com/USERNAME) |
+| Nisal Rathnaka | QA Engineer | [@NisalRathnaka](https://github.com/NisalRathnaka) |
+| Dilshan Viranjana | UI/UX Engineer | [@dilshanvl](https://github.com/dilshanvl) |
+| Minduli Kumaranayka | Project Manager | [@Minduli-Kumaranayaka](https://github.com/Minduli-Kumaranayaka) |
+| Sithma Vithanage | Frontend Engineer | [@SithmaVithanage](https://github.com/SithmaVithanage) |
 
 *Update the names, roles, and GitHub links to match your team.*
 
