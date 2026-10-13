@@ -1,5 +1,5 @@
  <p align="center">
-  <img width="900" height="900" alt="vertex-uom logo@1x (1)" src="https://github.com/user-attachments/assets/e2c8a4c6-51ce-4732-8058-e7314e7a84c2" />
+  <img width="900" height="900" alt="vertex-uom logo@1x (1)" src="https://github.com/user-attachments/assets/dfb36985-1c45-421f-a9f9-e17c60c9b988" />
 </p>
 
 <h1 align="center">vertex-uom</h1>
